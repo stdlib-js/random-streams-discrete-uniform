@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-streams-discrete-uniform",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Create a readable stream for generating pseudorandom numbers drawn from a discrete uniform distribution.",
   "license": "Apache-2.0",
   "type": "module",
